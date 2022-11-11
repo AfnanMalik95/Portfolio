@@ -2,4 +2,4 @@
 Hi there!
 
 Welcome to my Portfolio.
-/assets/Bike sales dashboard.xlsx
+/Portfolio/Bike sales dashboard.xlsx
