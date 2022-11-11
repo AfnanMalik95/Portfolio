@@ -1,4 +1,4 @@
-# 🗺 Portfolio Guide
+# 🗺 Portfolio
 
 Hi there! 🙋🏻‍
 
