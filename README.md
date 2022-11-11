@@ -17,5 +17,5 @@ Functions: Pivot, Dashboards
 
 | Project Name | Description | SQL Functions |
 |---|---|---|
-| 🛍 [Bike Sales Dashboard - Ongoing](https://github.com/katiehuangx/Udemy-Advanced-MySQL) | I analyse and optimise marketing channels, measure and test website conversion performance and use data to understand impact of new product and campaign launches for an online retailer. | Advanced SQL |  
+| 🛍 [Bike Sales Dashboard - Ongoing](https://github.com/AfnanMalik95/Excel) |Setting up and Cleaning Data, Making Pivot Tables, Creating a Dashboard Adding Filter Buttons. | Intermideate Excel |  
 
