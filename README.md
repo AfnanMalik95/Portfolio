@@ -17,5 +17,5 @@ Functions: Pivot, Dashboards
 
 | Project Name | Description | SQL Functions |
 |---|---|---|
-| 🛍 [Bike Sales Dashboard - Ongoing](https://github.com/AfnanMalik95/Excel) |Setting up and Cleaning Data, Making Pivot Tables, Creating a Dashboard Adding Filter Buttons. | Intermideate Excel |  
+| 🚴‍♀️ [Bike Sales Dashboard - Ongoing](https://github.com/AfnanMalik95/Excel) |Setting up and Cleaning Data, Making Pivot Tables, Creating a Dashboard Adding Filter Buttons. | Intermideate Excel |  
 
