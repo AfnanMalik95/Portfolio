@@ -8,7 +8,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/wanafnan/
 
 ## 📚 Table of Contents
 - [Excel](#excel)
-- [Graphics Design] (#graphicsdesign)
+- [Graphics Design](#graphics-design)
 
 # Excel
 
