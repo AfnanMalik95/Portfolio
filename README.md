@@ -1,2 +1,4 @@
 # Portfolio
-Several Projects That I Made 
+Hi there!
+
+Welcome to my Portfolio.
