@@ -8,7 +8,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/wanafnan/
 
 ## 📚 Table of Contents
 - [Excel](#excel)
-- [Adobe] (#adobe)
+- [Graphics Design] (#graphicsdesign)
 
 # Excel
 
@@ -20,7 +20,7 @@ Functions: Pivot, Dashboards
 |---|---|---|
 | 🚴‍♀️ [Bike Sales Dashboard - Ongoing](https://github.com/AfnanMalik95/Excel) |Setting up and Cleaning Data, Making Pivot Tables, Creating a Dashboard Adding Filter Buttons. | Intermideate Excel |  
 
-# Adobe Photoshop
+# Graphics Design
 
 Level: Advance Adobe Photoshop
 
